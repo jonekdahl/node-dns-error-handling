@@ -1,0 +1,13 @@
+{
+  "name": "node-dns-error-handling",
+  "version": "0.0.1",
+  "description": "Test case for DNS resolution failures in different versions of NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "jon.ekdahl@gmail.com",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+  }
+}
